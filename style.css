@@ -58,12 +58,12 @@ nav a:hover{
     background-size: cover;
     background-position: center;
     padding: 5rem 1rem;
-    height: 100vh;
 }
 .first__sec .first__sec-left{
     width: 40%;
     padding: 3rem;
-    color: whitesmoke
+    color: whitesmoke;
+    padding-bottom: 4.8rem;
 }
 .first__sec-left h1{
     font-size: 5rem;
@@ -232,6 +232,7 @@ nav a:hover{
         width: 100%;
         padding: 0;
         text-align: center;
+        padding-bottom: 30px;
     }
     header nav menu{
         display: none;
